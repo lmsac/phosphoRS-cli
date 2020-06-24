@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PhosphoRS_Results>
+  <GlobalParameters>
+    <MassTolerance Value="0.02" />
+    <Modifications>
+      <Modification ID="1" Name="Phospho" MassDelta="79.966331" />
+      <Modification ID="2" Name="Oxidation" MassDelta="15.994919" />
+    </Modifications>
+    <Phosphorylation ID="1" />
+    <MaxIsoformCount Value="200" />
+    <MaxPTMCount Value="20" />
+    <ScoreNeutralLoss Value="True" />
+  </GlobalParameters>
+  <Spectra>
+    <Spectrum ID="1" Name="" PrecursorCharge="2" ActivationType="HCD">
+      <Peptides>
+        <Peptide ID="1">
+          <SitePrediction>
+            <Site SeqPos="1" SiteProb="6.06429186381097E-12" />
+            <Site SeqPos="3" SiteProb="9.27118437576979E-10" />
+            <Site SeqPos="4" SiteProb="1" />
+            <Site SeqPos="5" SiteProb="1" />
+            <Site SeqPos="8" SiteProb="3.14040482749406E-16" />
+            <Site SeqPos="11" SiteProb="2.36556567674098E-24" />
+          </SitePrediction>
+          <Isoforms>
+            <Isoform ID="9" PepScore="392.754005072161" PepProb="0.999999999066859">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="4" />
+                <PhosphoSite SeqPos="5" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="6" PepScore="302.397053342907" PepProb="9.21095852282221E-10">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="3" />
+                <PhosphoSite SeqPos="5" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="2" PepScore="280.521623440042" PepProb="5.98083520897E-12">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="1" />
+                <PhosphoSite SeqPos="5" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="5" PepScore="280.521623440042" PepProb="5.98083520897E-12">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="3" />
+                <PhosphoSite SeqPos="4" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="0" PepScore="258.958320603989" PepProb="4.17283827033656E-14">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="1" />
+                <PhosphoSite SeqPos="3" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="1" PepScore="258.958320603989" PepProb="4.17283827033656E-14">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="1" />
+                <PhosphoSite SeqPos="4" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="10" PepScore="237.723547110095" PepProb="3.14017754282338E-16">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="4" />
+                <PhosphoSite SeqPos="8" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="12" PepScore="196.317442760866" PepProb="2.2716622886442E-20">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="5" />
+                <PhosphoSite SeqPos="8" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="7" PepScore="156.491972688571" PepProb="2.3648127663106E-24">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="3" />
+                <PhosphoSite SeqPos="8" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="11" PepScore="156.491972688571" PepProb="2.3648127663106E-24">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="4" />
+                <PhosphoSite SeqPos="11" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="3" PepScore="137.250075295303" PepProb="2.81583382727202E-26">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="1" />
+                <PhosphoSite SeqPos="8" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="13" PepScore="118.510058924983" PepProb="3.76361668224792E-28">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="5" />
+                <PhosphoSite SeqPos="11" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="14" PepScore="118.510058924983" PepProb="3.76361668224792E-28">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="8" />
+                <PhosphoSite SeqPos="11" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="8" PepScore="82.7620269536716" PepProb="1.00184881249549E-31">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="3" />
+                <PhosphoSite SeqPos="11" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="4" PepScore="65.9091945557713" PepProb="2.06784959874149E-33">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="1" />
+                <PhosphoSite SeqPos="11" />
+              </PhosphoSites>
+            </Isoform>
+          </Isoforms>
+        </Peptide>
+      </Peptides>
+    </Spectrum>
+    <Spectrum ID="2" Name="" PrecursorCharge="2" ActivationType="HCD">
+      <Peptides>
+        <Peptide ID="2">
+          <SitePrediction>
+            <Site SeqPos="3" SiteProb="3.57891627788558E-42" />
+            <Site SeqPos="5" SiteProb="2.5908689869165E-34" />
+            <Site SeqPos="9" SiteProb="7.18636528063143E-08" />
+            <Site SeqPos="11" SiteProb="0.00395291391760111" />
+            <Site SeqPos="13" SiteProb="0.996047019958496" />
+          </SitePrediction>
+          <Isoforms>
+            <Isoform ID="19" PepScore="579.22843820125" PepProb="0.996047014031657">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="13" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="18" PepScore="555.214813596436" PepProb="0.00395291410469091">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="11" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="17" PepScore="507.810732683006" PepProb="7.18636524044619E-08">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="9" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="16" PepScore="243.380094522614" PepProb="2.59086909156132E-34">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="5" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="15" PepScore="164.783478028759" PepProb="3.57918231292123E-42">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="3" />
+              </PhosphoSites>
+            </Isoform>
+          </Isoforms>
+        </Peptide>
+      </Peptides>
+    </Spectrum>
+    <Spectrum ID="3" Name="" PrecursorCharge="3" ActivationType="HCD">
+      <Peptides>
+        <Peptide ID="3">
+          <SitePrediction>
+            <Site SeqPos="4" SiteProb="0.9951331615448" />
+            <Site SeqPos="5" SiteProb="0.5" />
+            <Site SeqPos="6" SiteProb="0.499950915575027" />
+            <Site SeqPos="8" SiteProb="0.0048662880435586" />
+            <Site SeqPos="12" SiteProb="4.96289358125068E-05" />
+            <Site SeqPos="15" SiteProb="7.09594813463887E-11" />
+            <Site SeqPos="16" SiteProb="1.1794679680632E-14" />
+            <Site SeqPos="17" SiteProb="2.49154451921638E-18" />
+          </SitePrediction>
+          <Isoforms>
+            <Isoform ID="20" PepScore="399.131001144813" PepProb="0.495133709035036">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="4" />
+                <PhosphoSite SeqPos="5" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="21" PepScore="399.131001144813" PepProb="0.495133709035036">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="4" />
+                <PhosphoSite SeqPos="6" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="22" PepScore="379.0112406066" PepProb="0.00481666498312469">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="4" />
+                <PhosphoSite SeqPos="8" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="27" PepScore="379.0112406066" PepProb="0.00481666498312469">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="5" />
+                <PhosphoSite SeqPos="6" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="23" PepScore="359.094384297048" PepProb="4.90976617555566E-05">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="4" />
+                <PhosphoSite SeqPos="12" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="28" PepScore="359.094384297048" PepProb="4.90976617555566E-05">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="5" />
+                <PhosphoSite SeqPos="8" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="29" PepScore="339.38780588696" PepProb="5.25294639080144E-07">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="5" />
+                <PhosphoSite SeqPos="12" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="33" PepScore="339.38780588696" PepProb="5.25294639080144E-07">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="6" />
+                <PhosphoSite SeqPos="8" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="34" PepScore="319.899548167704" PepProb="5.90986005148112E-09">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="6" />
+                <PhosphoSite SeqPos="12" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="24" PepScore="300.638415825034" PepProb="7.00590045775085E-11">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="4" />
+                <PhosphoSite SeqPos="15" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="38" PepScore="300.638415825034" PepProb="7.00590045775085E-11">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="8" />
+                <PhosphoSite SeqPos="12" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="30" PepScore="281.614086243079" PepProb="8.77063432348358E-13">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="5" />
+                <PhosphoSite SeqPos="15" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="25" PepScore="262.837242936226" PepProb="1.16237610489763E-14">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="4" />
+                <PhosphoSite SeqPos="16" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="35" PepScore="262.837242936226" PepProb="1.16237610489763E-14">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="6" />
+                <PhosphoSite SeqPos="15" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="42" PepScore="262.837242936226" PepProb="1.16237610489763E-14">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="12" />
+                <PhosphoSite SeqPos="15" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="31" PepScore="244.319737687871" PepProb="1.63529514998421E-16">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="5" />
+                <PhosphoSite SeqPos="16" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="39" PepScore="244.319737687871" PepProb="1.63529514998421E-16">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="8" />
+                <PhosphoSite SeqPos="15" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="26" PepScore="226.074789544064" PepProb="2.44963475065072E-18">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="4" />
+                <PhosphoSite SeqPos="17" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="36" PepScore="226.074789544064" PepProb="2.44963475065072E-18">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="6" />
+                <PhosphoSite SeqPos="16" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="43" PepScore="226.074789544064" PepProb="2.44963475065072E-18">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="12" />
+                <PhosphoSite SeqPos="16" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="45" PepScore="226.074789544064" PepProb="2.44963475065072E-18">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="15" />
+                <PhosphoSite SeqPos="16" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="32" PepScore="208.117231749231" PepProb="3.92053698177584E-20">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="5" />
+                <PhosphoSite SeqPos="17" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="40" PepScore="208.117231749231" PepProb="3.92053698177584E-20">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="8" />
+                <PhosphoSite SeqPos="16" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="37" PepScore="190.463821964802" PepProb="6.72983747841857E-22">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="6" />
+                <PhosphoSite SeqPos="17" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="44" PepScore="190.463821964802" PepProb="6.72983747841857E-22">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="12" />
+                <PhosphoSite SeqPos="17" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="46" PepScore="190.463821964802" PepProb="6.72983747841857E-22">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="15" />
+                <PhosphoSite SeqPos="17" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="47" PepScore="190.463821964802" PepProb="6.72983747841857E-22">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="16" />
+                <PhosphoSite SeqPos="17" />
+              </PhosphoSites>
+            </Isoform>
+            <Isoform ID="41" PepScore="173.133637396762" PepProb="1.24447483670051E-23">
+              <PhosphoSites>
+                <PhosphoSite SeqPos="8" />
+                <PhosphoSite SeqPos="17" />
+              </PhosphoSites>
+            </Isoform>
+          </Isoforms>
+        </Peptide>
+      </Peptides>
+    </Spectrum>
+  </Spectra>
+</PhosphoRS_Results>
